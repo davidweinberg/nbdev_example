@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_example"
+  site-url: "https://davidweinberg.github.io/nbdev_example"
+  description: "nbdev usage example"
+  repo-branch: main
+  repo-url: "https://github.com/davidweinberg/nbdev_example"
